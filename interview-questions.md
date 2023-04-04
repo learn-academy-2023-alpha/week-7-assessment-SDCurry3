@@ -24,7 +24,7 @@ Researched answer: **researching this one hurts. feels like I could spend days l
 
 3. Name three rails generator commands. What is created by each?
 
-Your answer:Rails g model, resource, and controller are the three that I can recall. as for what they do specifically, model creates the basic layout for entering data into a database, resource does the same thing but also adds HTTP verbage, and controller makes the bones of a controller file.
+Your answer:Rails g model, resource, and controller are the three that I can recall. as for what they do specifically, model creates the basic layout for entering data into a database, resource Does the same thing but also adds HTTP verbage, and controller makes the bones of a controller file.
 
 Researched answer: Can't think of much else to add, sorry.
 

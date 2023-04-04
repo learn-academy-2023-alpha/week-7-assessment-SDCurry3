@@ -24,7 +24,7 @@ class BlogPostsController < ApplicationController  #defines the class BlogPostCo
   end
 
   def create
-    # ---5)   this will attempt to create an instance of BlogPost, and redirecting the user to a page displaying that post if the request meets the requirements listed in blog_post_params down at the bottom of the page.
+    # ---5)   this will attempt to create an instance of BlogPost, and redirecting the user to a page displaying that post if the request meets the requirements listed in blog_post_params down at the bottom of the page. 
     @post = BlogPost.create(blog_post_params)
     if @post.valid?
       redirect_to blog_post_path(@post)

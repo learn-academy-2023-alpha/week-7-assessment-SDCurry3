@@ -16,9 +16,6 @@ const { describe } = require("node:test");
 
 //   ***Hate to end on such a low note, but my family has decided to pay me a surprise visit and now I barely have time to think. Apologies for the subpar work on this one.***
 
-//   ***interview questions are incomplete
-
-
 
 // --------------------1) Create a function that takes in an array of objects and returns an array with a sentence about each person with their name capitalized.
 
